@@ -1091,13 +1091,13 @@ background-image: url(https://up6.cc/2023/02/16757875462712.png); background-siz
 
 
 $(`<style>
-.nosel.d-flex.room. .fitimg.u-pic.borderg {
+.nosel.d-flex.room.r185fdacd690x48bf6871x-6k6ea9 .fitimg.u-pic.borderg {
   letter-spacing: 1px;
   background-size: 108% 108%;
   -webkit-text-fill-color: white;
   animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
 }
-.nosel.d-flex.room. .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
+.nosel.d-flex.room.r185fdacd690x48bf6871x-6k6ea9 .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
   letter-spacing: 1px;
   -webkit-text-fill-color: #01407f;
   border-radius: 15px 0px 15px 0px !important;
@@ -1108,8 +1108,8 @@ $(`<style>
   text-align: left!important;
   margin-left: 45px!important;
 }
-.nosel.d-flex.room..bord {border-inline: 0px solid #4c121e !important;}
-.nosel.d-flex.room. .dots.mini.u-msg {
+.nosel.d-flex.room.r185fdacd690x48bf6871x-6k6ea9.bord {border-inline: 0px solid #4c121e !important;}
+.nosel.d-flex.room.r185fdacd690x48bf6871x-6k6ea9 .dots.mini.u-msg {
     text-align: center;
     margin-top: 18px !important;
 	margin-left: 11px;
@@ -1120,13 +1120,13 @@ $(`<style>
 	color: transparent !important;
 	background-size: 90% 100%;
 }
-.nosel.d-flex.room. {
+.nosel.d-flex.room.r185fdacd690x48bf6871x-6k6ea9 {
     background-image: url(https://up6.cc/2023/04/168046629097111.gif);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
 }
-.nosel.d-flex.room. .fitimg.u-pic.borderg {
+.nosel.d-flex.room.r185fdacd690x48bf6871x-6k6ea9 .fitimg.u-pic.borderg {
   border-radius: 100px;
   border: 2px solid #cc8321;
   letter-spacing: 1px;
@@ -1139,7 +1139,7 @@ $(`<style>
   max-height: 60px !important;
   display: none;
 }
-.nosel.d-flex.room. .u-topic.dots {
+.nosel.d-flex.room.r185fdacd690x48bf6871x-6k6ea9 .u-topic.dots {
   text-transform: uppercase;
   -webkit-text-fill-color: #01407f9c;
   animation: textclip 2s linear infinite;
@@ -1424,15 +1424,15 @@ background-image: url(https://up6.cc/2023/02/16757875462712.png); background-siz
 
 
 $(`<style>
-.nosel.d-flex.room. .fitimg.u-pic.borderg {
+.nosel.d-flex.room.r18519f44379x3d8de6a4-xu5usot .fitimg.u-pic.borderg {
   letter-spacing: 1px;
   background-size: 108% 108%;
   -webkit-text-fill-color: white;
   animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
 }
-.nosel.d-flex.room. .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
+.nosel.d-flex.room.r18519f44379x3d8de6a4-xu5usot .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
   letter-spacing: 1px;
-  -webkit-text-fill-color: #01407f;
+  -webkit-text-fill-color: #6e6e6e;
   border-radius: 15px 0px 15px 0px !important;
   height: 27px;
   margin-top: 40px !important;
@@ -1441,25 +1441,25 @@ $(`<style>
   text-align: left!important;
   margin-left: 45px!important;
 }
-.nosel.d-flex.room..bord {border-inline: 0px solid #4c121e !important;}
-.nosel.d-flex.room. .dots.mini.u-msg {
+.nosel.d-flex.room.r18519f44379x3d8de6a4-xu5usot.bord {border-inline: 0px solid #4c121e !important;}
+.nosel.d-flex.room.r18519f44379x3d8de6a4-xu5usot .dots.mini.u-msg {
     text-align: center;
     margin-top: 18px !important;
 	margin-left: 11px;
-	-webkit-text-fill-color: #01407f9e;
+	-webkit-text-fill-color: transparent;
 	animation: textclip 2s linear infinite;
 	background-image: url(https://up6.cc/2023/02/167536001950611.gif);
 	-webkit-background-clip: text;
 	color: transparent !important;
 	background-size: 90% 100%;
 }
-.nosel.d-flex.room. {
-    background-image: url(https://up6.cc/2023/04/168046629097111.gif);
+.nosel.d-flex.room.r18519f44379x3d8de6a4-xu5usot {
+    background-image: url(https://up6.cc/2023/04/168046759902991.gif);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
 }
-.nosel.d-flex.room. .fitimg.u-pic.borderg {
+.nosel.d-flex.room.r18519f44379x3d8de6a4-xu5usot .fitimg.u-pic.borderg {
   border-radius: 100px;
   border: 2px solid #cc8321;
   letter-spacing: 1px;
@@ -1472,9 +1472,9 @@ $(`<style>
   max-height: 60px !important;
   display: none;
 }
-.nosel.d-flex.room. .u-topic.dots {
+.nosel.d-flex.room.r18519f44379x3d8de6a4-xu5usot .u-topic.dots {
   text-transform: uppercase;
-  -webkit-text-fill-color: #01407f9c;
+  -webkit-text-fill-color: #e8a64d00;
   animation: textclip 2s linear infinite;
   display: inline-block;
   margin-left: 10px;
